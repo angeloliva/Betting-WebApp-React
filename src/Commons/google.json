@@ -1,0 +1,5 @@
+{
+  "androidClientId": "XXXX",
+  "iosClientId": "YYYY",
+  "scopes": ["profile", "email"]
+}

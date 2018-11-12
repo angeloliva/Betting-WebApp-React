@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "lib": ["es6"],
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "target": "es6",
+    "baseUrl": "./functions",
+    "moduleResolution": "node",
+    "types": []
+  },
+  "compileOnSave": true,
+  "include": ["src"],
+  "exclude": ["./node_modules/**/*", "../node_modules/**/*", "../src/**/*"]
+}

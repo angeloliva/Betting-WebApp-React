@@ -1,0 +1,11 @@
+html, body {
+    min-height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}

@@ -1,0 +1,5581 @@
+[
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 900 },
+    "statsID": 1,
+    "description": "Stephen Gostkowski kicks off to the Phi1.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "NE35", "end": "Phi1" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 64,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 900 },
+    "statsID": 2,
+    "description":
+      "Corey Clement return for 25 yards to Phi26. Tackled by Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff Return",
+    "yardLine": { "start": "Phi1", "end": "Phi26" },
+    "player": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 25,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 894 },
+    "statsID": 3,
+    "description":
+      "Nick Foles pass to the right to Nelson Agholor for 4 yards to the Phi30. Tackled by Kyle Van Noy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi26", "end": "Phi30" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 860 },
+    "statsID": 4,
+    "description":
+      "Nick Foles pass to the right to Nelson Agholor for 2 yards to the Phi32. Tackled by Stephon Gilmore.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi30", "end": "Phi32" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 817 },
+    "statsID": 5,
+    "description":
+      "Nick Foles pass to the left to Alshon Jeffery for 17 yards to the Phi49. Tackled by Eric Rowe.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi32", "end": "Phi49" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 17,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 792 },
+    "statsID": 6,
+    "description":
+      "LeGarrette Blount rush to the right for a loss of 2 yards to the Phi47. Tackled by Kyle Van Noy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi49", "end": "Phi47" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": -2,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 756 },
+    "statsID": 7,
+    "description":
+      "Nick Foles incomplete pass to the right intended for Torrey Smith defensed by Devin McCourty.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi47", "end": "Phi47" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 300592,
+      "firstName": "Devin",
+      "lastName": "McCourty",
+      "uniform": "32"
+    },
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 750 },
+    "statsID": 8,
+    "description":
+      "Nick Foles pass to the middle to Torrey Smith for 15 yards to the NE38. Tackled by Eric Rowe.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi47", "end": "NE38" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 15,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 707 },
+    "statsID": 9,
+    "description":
+      "Nick Foles pass to the right to Zach Ertz for 7 yards to the NE31. Tackled by Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE38", "end": "NE31" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 7,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 667 },
+    "statsID": 10,
+    "description":
+      "Jay Ajayi rush to the right for 4 yards to the NE27. Tackled by James Harrison and Elandon Roberts.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE31", "end": "NE27" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 629 },
+    "statsID": 11,
+    "description":
+      "Jay Ajayi rush to the right for 6 yards to the NE21. Tackled by Kyle Van Noy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE27", "end": "NE21" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 6,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 591 },
+    "statsID": 12,
+    "description":
+      "Nick Foles pass to the right to Corey Clement for 16 yards to the NE5. Tackled by Elandon Roberts and Duron Harmon.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE21", "end": "NE5" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 16,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 547 },
+    "statsID": 13,
+    "description":
+      "LeGarrette Blount rush to the right for 3 yards to the NE2. Tackled by Lawrence Guy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE5", "end": "NE2" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 3,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 510 },
+    "statsID": 14,
+    "description": "Penalty: False Start on Eagles (Zach Ertz) -5 yards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Penalty",
+    "yardLine": { "start": "NE2", "end": "NE7" },
+    "player": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": -5,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 489 },
+    "statsID": 15,
+    "description":
+      "Nick Foles incomplete pass to the left intended for Nelson Agholor.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE7", "end": "NE7" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 483 },
+    "statsID": 16,
+    "description":
+      "Nick Foles incomplete pass to the left intended for Alshon Jeffery defensed by Eric Rowe.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE7", "end": "NE7" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 591940,
+      "firstName": "Eric",
+      "lastName": "Rowe",
+      "uniform": "25"
+    },
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 0 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 478 },
+    "statsID": 17,
+    "description":
+      "Jake Elliott 25 yard field goal attempt is GOOD. Holder: Donnie Jones.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Field Goal",
+    "yardLine": { "start": "NE7", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 25,
+    "scores": {
+      "before": { "home": 0, "away": 0 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 1
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 475 },
+    "statsID": 18,
+    "description": "Jake Elliott kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 475 },
+    "statsID": 19,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "NE0", "end": "NE0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 475 },
+    "statsID": 20,
+    "description":
+      "Tom Brady incomplete pass to the left intended for Brandin Cooks.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE25", "end": "NE25" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 607864,
+      "firstName": "Brandin",
+      "lastName": "Cooks",
+      "uniform": "14"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 472 },
+    "statsID": 21,
+    "description":
+      "Tom Brady pass to the left to James White for 15 yards to the NE40. Tackled by Malcolm Jenkins.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE25", "end": "NE40" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 15,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 456 },
+    "statsID": 23,
+    "description":
+      "Penalty: Too Many Men on Field on Eagles (Patrick Robinson) 5 yards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Penalty",
+    "yardLine": { "start": "NE40", "end": "NE45" },
+    "player": {
+      "statsID": 323505,
+      "firstName": "Patrick",
+      "lastName": "Robinson",
+      "uniform": "21"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 5,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 435 },
+    "statsID": 24,
+    "description":
+      "Tom Brady pass to the left to Chris Hogan for 28 yards to the Phi27. Tackled by Corey Graham and Rodney McLeod.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE45", "end": "Phi27" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 28,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 405 },
+    "statsID": 25,
+    "description":
+      "Chris Hogan rush to the left for 4 yards to the Phi23. Tackled by Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi27", "end": "Phi23" },
+    "player": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 380 },
+    "statsID": 26,
+    "description":
+      "Tom Brady pass to the left to Rob Gronkowski for 9 yards to the Phi14. Tackled by Rodney McLeod.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi23", "end": "Phi14" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 9,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 339 },
+    "statsID": 27,
+    "description":
+      "Tom Brady pass to the middle to James White for 6 yards to the Phi8. Tackled by Nigel Bradham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi14", "end": "Phi8" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 6,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 307 },
+    "statsID": 28,
+    "description":
+      "James White rush to the middle for no gain to the Phi8. Tackled by Nigel Bradham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi8", "end": "Phi8" },
+    "player": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 265 },
+    "statsID": 29,
+    "description":
+      "Tom Brady incomplete pass to the middle intended for Rob Gronkowski defensed by Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi8", "end": "Phi8" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 651021,
+      "firstName": "Jalen",
+      "lastName": "Mills",
+      "uniform": "31"
+    },
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 0, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 260 },
+    "statsID": 30,
+    "description":
+      "Stephen Gostkowski 26 yard field goal attempt is GOOD. Holder: Ryan Allen.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Field Goal",
+    "yardLine": { "start": "Phi8", "end": "Phi0" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 26,
+    "scores": {
+      "before": { "home": 0, "away": 3 },
+      "after": { "home": 3, "away": 3 }
+    },
+    "driveID": 2
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 257 },
+    "statsID": 31,
+    "description": "Stephen Gostkowski kicks off to the Phi2.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "NE35", "end": "Phi2" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 63,
+    "scores": {
+      "before": { "home": 3, "away": 3 },
+      "after": { "home": 3, "away": 3 }
+    },
+    "driveID": 3
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 257 },
+    "statsID": 32,
+    "description":
+      "Kenjon Barner return for 21 yards to Phi23. Tackled by Brandon King and Jordan Richards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff Return",
+    "yardLine": { "start": "Phi2", "end": "Phi23" },
+    "player": {
+      "statsID": 459193,
+      "firstName": "Kenjon",
+      "lastName": "Barner",
+      "uniform": "38"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 21,
+    "scores": {
+      "before": { "home": 3, "away": 3 },
+      "after": { "home": 3, "away": 3 }
+    },
+    "driveID": 3
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 252 },
+    "statsID": 33,
+    "description":
+      "Nick Foles pass to the left to Nelson Agholor for 7 yards to the Phi30. Tackled by Eric Rowe.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi23", "end": "Phi30" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 7,
+    "scores": {
+      "before": { "home": 3, "away": 3 },
+      "after": { "home": 3, "away": 3 }
+    },
+    "driveID": 3
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 211 },
+    "statsID": 34,
+    "description":
+      "LeGarrette Blount rush to the middle for 36 yards to the NE34. Tackled by Duron Harmon.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi30", "end": "NE34" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 36,
+    "scores": {
+      "before": { "home": 3, "away": 3 },
+      "after": { "home": 3, "away": 3 }
+    },
+    "driveID": 3
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 161 },
+    "statsID": 35,
+    "description":
+      "Nick Foles pass to the left to Alshon Jeffery for 34 yards for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE34", "end": "NE0" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 34,
+    "scores": {
+      "before": { "home": 3, "away": 3 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 3
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 154 },
+    "statsID": 36,
+    "description": "Jake Elliott extra point is NO GOOD.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Missed Extra Point",
+    "yardLine": { "start": "NE15", "end": "NE15" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 3
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 154 },
+    "statsID": 37,
+    "description": "Jake Elliott kicks off to the NE1.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE1" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 64,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 154 },
+    "statsID": 38,
+    "description":
+      "Dion Lewis return for 17 yards to NE18. Tackled by Najee Goode.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff Return",
+    "yardLine": { "start": "NE1", "end": "NE18" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 17,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 150 },
+    "statsID": 39,
+    "description":
+      "Dion Lewis rush to the middle for 8 yards to the NE26. Tackled by Mychal Kendricks.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE18", "end": "NE26" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 8,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 122 },
+    "statsID": 40,
+    "description":
+      "Penalty: False Start on Patriots (Rob Gronkowski) -5 yards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Penalty",
+    "yardLine": { "start": "NE26", "end": "NE21" },
+    "player": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": -5,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 106 },
+    "statsID": 41,
+    "description":
+      "Tom Brady incomplete pass to the left intended for Chris Hogan.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE21", "end": "NE21" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 101 },
+    "statsID": 42,
+    "description":
+      "Tom Brady pass to the left to Danny Amendola for 50 yards to the Phi29. Tackled by Ronald Darby.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE21", "end": "Phi29" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 50,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 62 },
+    "statsID": 43,
+    "description":
+      "Tom Brady pass to the right to Chris Hogan for 12 yards to the Phi17. Tackled by Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi29", "end": "Phi17" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 12,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 39 },
+    "statsID": 44,
+    "description":
+      "James White rush to the left for 6 yards to the Phi11. Tackled by Rodney McLeod.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi17", "end": "Phi11" },
+    "player": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 6,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 1, "gameTimeSec": 9 },
+    "statsID": 45,
+    "description":
+      "James White rush to the middle for 2 yards to the Phi9. Tackled by Nigel Bradham and Corey Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi11", "end": "Phi9" },
+    "player": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 900 },
+    "statsID": 47,
+    "description":
+      "Brandin Cooks rush to the right for 1 yard to the Phi8. Tackled by Rodney McLeod.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi9", "end": "Phi8" },
+    "player": {
+      "statsID": 607864,
+      "firstName": "Brandin",
+      "lastName": "Cooks",
+      "uniform": "14"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 1,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 858 },
+    "statsID": 48,
+    "description":
+      "26 yard field goal attempt by Stephen Gostkowski is NO GOOD. Holder: Ryan Allen.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Missed Field Goal",
+    "yardLine": { "start": "Phi8", "end": "Phi16" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 26,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 4
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 853 },
+    "statsID": 49,
+    "description":
+      "Jay Ajayi rush to the right for 2 yards to the Phi22. Tackled by Devin McCourty and Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi20", "end": "Phi22" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 5
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 811 },
+    "statsID": 50,
+    "description":
+      "Nick Foles incomplete pass to the right intended for Corey Clement.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi22", "end": "Phi22" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 5
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 803 },
+    "statsID": 51,
+    "description":
+      "Nick Foles incomplete pass to the right intended for Zach Ertz defensed by Devin McCourty.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi22", "end": "Phi22" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 300592,
+      "firstName": "Devin",
+      "lastName": "McCourty",
+      "uniform": "32"
+    },
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 5
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 796 },
+    "statsID": 52,
+    "description": "Donnie Jones punts for 41 yards to NE37.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Punt",
+    "yardLine": { "start": "Phi22", "end": "NE37" },
+    "player": {
+      "statsID": 246431,
+      "firstName": "Donnie",
+      "lastName": "Jones",
+      "uniform": "8"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 41,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 5
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 796 },
+    "statsID": 53,
+    "description": "No return.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "No Return",
+    "yardLine": { "start": "NE37", "end": "NE37" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 6
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 791 },
+    "statsID": 54,
+    "description":
+      "Tom Brady pass to the left to Brandin Cooks for 23 yards to the Phi40. Tackled by Malcolm Jenkins.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE37", "end": "Phi40" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 607864,
+      "firstName": "Brandin",
+      "lastName": "Cooks",
+      "uniform": "14"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 23,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 6
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 769 },
+    "statsID": 55,
+    "description":
+      "Tom Brady incomplete pass to the left intended for James White defensed by Malcolm Jenkins.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi40", "end": "Phi40" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 296911,
+      "firstName": "Malcolm",
+      "lastName": "Jenkins",
+      "uniform": "27"
+    },
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 6
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 765 },
+    "statsID": 56,
+    "description":
+      "Dion Lewis rush to the middle for 5 yards to the Phi35. Tackled by Nigel Bradham and Corey Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi40", "end": "Phi35" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 5,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 6
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 724 },
+    "statsID": 57,
+    "description":
+      "Danny Amendola incomplete pass to the right intended for Tom Brady.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi35", "end": "Phi35" },
+    "player": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 6
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 718 },
+    "statsID": 58,
+    "description":
+      "Tom Brady incomplete pass to the right intended for Rob Gronkowski defensed by Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi35", "end": "Phi35" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 651021,
+      "firstName": "Jalen",
+      "lastName": "Mills",
+      "uniform": "31"
+    },
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 6
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 713 },
+    "statsID": 59,
+    "description":
+      "Jay Ajayi rush to the right for a loss of 1 yard to the Phi34. Tackled by Trey Flowers and Elandon Roberts.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi35", "end": "Phi34" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": -1,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 7
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 675 },
+    "statsID": 60,
+    "description":
+      "Jay Ajayi rush to the left for 4 yards to the Phi38. Tackled by Devin McCourty.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi34", "end": "Phi38" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 7
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 630 },
+    "statsID": 61,
+    "description":
+      "Nick Foles pass to the middle to Zach Ertz for 19 yards to the NE43. Tackled by Jordan Richards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi38", "end": "NE43" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 19,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 7
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 585 },
+    "statsID": 62,
+    "description":
+      "Nick Foles incomplete pass to the right intended for Alshon Jeffery.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE43", "end": "NE43" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 7
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 580 },
+    "statsID": 63,
+    "description":
+      "Nick Foles pass to the right to Alshon Jeffery for 22 yards to the NE21. Tackled by Stephon Gilmore.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE43", "end": "NE21" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 22,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 9 }
+    },
+    "driveID": 7
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 535 },
+    "statsID": 64,
+    "description":
+      "LeGarrette Blount rush to the left for 21 yards for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE21", "end": "NE0" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 21,
+    "scores": {
+      "before": { "home": 3, "away": 9 },
+      "after": { "home": 3, "away": 15 }
+    },
+    "driveID": 7
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 528 },
+    "statsID": 65,
+    "description":
+      "Nick Foles 2 pt conversion pass is NO GOOD - intended forAlshon Jeffery.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Missed Two Point Conversion",
+    "yardLine": { "start": "NE2", "end": "NE2" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 15 },
+      "after": { "home": 3, "away": 15 }
+    },
+    "driveID": 7
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 528 },
+    "statsID": 66,
+    "description": "Jake Elliott kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 3, "away": 15 },
+      "after": { "home": 3, "away": 15 }
+    },
+    "driveID": 8
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 528 },
+    "statsID": 67,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "NE0", "end": "NE0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 15 },
+      "after": { "home": 3, "away": 15 }
+    },
+    "driveID": 8
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 528 },
+    "statsID": 68,
+    "description":
+      "Tom Brady pass to the right to Rex Burkhead for 46 yards to the Phi29. Tackled by Corey Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE25", "end": "Phi29" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 498760,
+      "firstName": "Rex",
+      "lastName": "Burkhead",
+      "uniform": "34"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 46,
+    "scores": {
+      "before": { "home": 3, "away": 15 },
+      "after": { "home": 3, "away": 15 }
+    },
+    "driveID": 8
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 497 },
+    "statsID": 69,
+    "description":
+      "Tom Brady incomplete pass to the right intended for Danny Amendola.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi29", "end": "Phi29" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 15 },
+      "after": { "home": 3, "away": 15 }
+    },
+    "driveID": 8
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 492 },
+    "statsID": 70,
+    "description":
+      "Tom Brady pass to the left to Danny Amendola for 2 yards to the Phi27. Tackled by Malcolm Jenkins.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi29", "end": "Phi27" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 3, "away": 15 },
+      "after": { "home": 3, "away": 15 }
+    },
+    "driveID": 8
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 453 },
+    "statsID": 71,
+    "description":
+      "Tom Brady incomplete pass to the right intended for James White.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi27", "end": "Phi27" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 3, "away": 15 },
+      "after": { "home": 3, "away": 15 }
+    },
+    "driveID": 8
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 449 },
+    "statsID": 72,
+    "description":
+      "Stephen Gostkowski 45 yard field goal attempt is GOOD. Holder: Ryan Allen.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Field Goal",
+    "yardLine": { "start": "Phi27", "end": "Phi0" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 45,
+    "scores": {
+      "before": { "home": 3, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 8
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 444 },
+    "statsID": 73,
+    "description": "Stephen Gostkowski kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "NE35", "end": "Phi0" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 9
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 444 },
+    "statsID": 74,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "Phi0", "end": "Phi0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 9
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 444 },
+    "statsID": 75,
+    "description": "Penalty: False Start on Eagles (Zach Ertz) -5 yards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Penalty",
+    "yardLine": { "start": "Phi25", "end": "Phi20" },
+    "player": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": -5,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 9
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 444 },
+    "statsID": 76,
+    "description":
+      "Corey Clement rush to the left for 1 yard to the Phi21. Tackled by Elandon Roberts.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi20", "end": "Phi21" },
+    "player": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 1,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 9
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 400 },
+    "statsID": 77,
+    "description":
+      "Nick Foles pass to the right to Torrey Smith for 10 yards to the Phi31. Tackled by Stephon Gilmore.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi21", "end": "Phi31" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 10,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 9
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 355 },
+    "statsID": 78,
+    "description":
+      "Jay Ajayi rush to the right for 26 yards to the NE43. Tackled by James Harrison.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi31", "end": "NE43" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 26,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 9
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 315 },
+    "statsID": 79,
+    "description":
+      "Nick Foles pass intended for Alshon Jeffery INTERCEPTED by Duron Harmon defensed by Stephon Gilmore.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Interception",
+    "yardLine": { "start": "NE43", "end": "NE2" },
+    "player": {
+      "statsID": 511863,
+      "firstName": "Duron",
+      "lastName": "Harmon",
+      "uniform": "30"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 494377,
+      "firstName": "Stephon",
+      "lastName": "Gilmore",
+      "uniform": "24"
+    },
+    "direction": "R",
+    "numYards": 41,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 9
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 315 },
+    "statsID": 80,
+    "description":
+      "Duron Harmon returned for 8 yards. Tackled by Alshon Jeffery and Trey Burton.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Interception Run Back",
+    "yardLine": { "start": "NE2", "end": "NE10" },
+    "player": {
+      "statsID": 511863,
+      "firstName": "Duron",
+      "lastName": "Harmon",
+      "uniform": "30"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 8,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 301 },
+    "statsID": 81,
+    "description":
+      "Dion Lewis rush to the left for 4 yards to the NE14. Tackled by Timmy Jernigan and Mychal Kendricks.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE10", "end": "NE14" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 263 },
+    "statsID": 82,
+    "description":
+      "Tom Brady incomplete pass to the left intended for Rob Gronkowski defensed by Ronald Darby.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE14", "end": "NE14" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 691515,
+      "firstName": "Ronald",
+      "lastName": "Darby",
+      "uniform": "41"
+    },
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 259 },
+    "statsID": 84,
+    "description": "Penalty: Holding on Eagles (Jalen Mills) 5 yards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Penalty",
+    "yardLine": { "start": "NE14", "end": "NE19" },
+    "player": {
+      "statsID": 651021,
+      "firstName": "Jalen",
+      "lastName": "Mills",
+      "uniform": "31"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 5,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 255 },
+    "statsID": 85,
+    "description":
+      "Dion Lewis rush to the left for 5 yards to the NE24. Tackled by Fletcher Cox.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE19", "end": "NE24" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 5,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 226 },
+    "statsID": 86,
+    "description":
+      "Dion Lewis rush to the left for 7 yards to the NE31. Tackled by Beau Allen and Mychal Kendricks.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE24", "end": "NE31" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 7,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 179 },
+    "statsID": 87,
+    "description":
+      "Tom Brady incomplete pass to the left intended for Rob Gronkowski defensed by Rodney McLeod.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE31", "end": "NE31" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 462236,
+      "firstName": "Rodney",
+      "lastName": "McLeod",
+      "uniform": "23"
+    },
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 175 },
+    "statsID": 88,
+    "description":
+      "Tom Brady pass to the right to Chris Hogan for 43 yards to the Phi26. Tackled by Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE31", "end": "Phi26" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 43,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 6, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 132 },
+    "statsID": 89,
+    "description": "James White rush to the left for 26 yards for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi26", "end": "Phi0" },
+    "player": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 26,
+    "scores": {
+      "before": { "home": 6, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 132 },
+    "statsID": 90,
+    "description": "Stephen Gostkowski extra point is NO GOOD.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Missed Extra Point",
+    "yardLine": { "start": "Phi15", "end": "Phi15" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 10
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 132 },
+    "statsID": 91,
+    "description": "Stephen Gostkowski kicks off to the Phi3.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "NE35", "end": "Phi3" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 62,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 132 },
+    "statsID": 92,
+    "description":
+      "Kenjon Barner return for 27 yards to Phi30. Tackled by Stephen Gostkowski.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff Return",
+    "yardLine": { "start": "Phi3", "end": "Phi30" },
+    "player": {
+      "statsID": 459193,
+      "firstName": "Kenjon",
+      "lastName": "Barner",
+      "uniform": "38"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 27,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 119 },
+    "statsID": 93,
+    "description": "Two Minute Warning.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Two Minute Warning",
+    "yardLine": { "start": "Phi30", "end": "Phi30" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 119 },
+    "statsID": 94,
+    "description":
+      "Nick Foles pass to the right to Zach Ertz for 7 yards to the Phi37. Tackled by Jordan Richards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi30", "end": "Phi37" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 7,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 112 },
+    "statsID": 95,
+    "description":
+      "Nick Foles incomplete pass to the left intended for Torrey Smith defensed by Eric Rowe.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi37", "end": "Phi37" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 591940,
+      "firstName": "Eric",
+      "lastName": "Rowe",
+      "uniform": "25"
+    },
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 106 },
+    "statsID": 96,
+    "description":
+      "Nick Foles pass to the right to Corey Clement for 55 yards to the NE8. Tackled by Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi37", "end": "NE8" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 55,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 53 },
+    "statsID": 97,
+    "description":
+      "Corey Clement rush to the left for 6 yards to the NE2. Tackled by Duron Harmon and Elandon Roberts.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE8", "end": "NE2" },
+    "player": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 6,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 45 },
+    "statsID": 98,
+    "description": "Patriots timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Defensive Time Out",
+    "yardLine": { "start": "NE2", "end": "NE2" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 45 },
+    "statsID": 99,
+    "description":
+      "Corey Clement rush to the middle for 1 yard to the NE1. Tackled by Kyle Van Noy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE2", "end": "NE1" },
+    "player": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 1,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 41 },
+    "statsID": 100,
+    "description": "Patriots timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Defensive Time Out",
+    "yardLine": { "start": "NE1", "end": "NE1" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 41 },
+    "statsID": 101,
+    "description":
+      "Nick Foles incomplete pass to the left intended for Alshon Jeffery defensed by Stephon Gilmore.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE1", "end": "NE1" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 494377,
+      "firstName": "Stephon",
+      "lastName": "Gilmore",
+      "uniform": "24"
+    },
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 38 },
+    "statsID": 102,
+    "description": "Eagles timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Offense Time Out",
+    "yardLine": { "start": "NE1", "end": "NE1" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 15 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 38 },
+    "statsID": 103,
+    "description":
+      "Trey Burton pass to the right to Nick Foles for 1 yard for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE1", "end": "NE0" },
+    "player": {
+      "statsID": 542788,
+      "firstName": "Trey",
+      "lastName": "Burton",
+      "uniform": "88"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 1,
+    "scores": {
+      "before": { "home": 12, "away": 15 },
+      "after": { "home": 12, "away": 21 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 34 },
+    "statsID": 104,
+    "description": "Jake Elliott extra point is GOOD.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Extra Point",
+    "yardLine": { "start": "NE15", "end": "NE15" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 21 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 11
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 34 },
+    "statsID": 105,
+    "description": "Jake Elliott kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 34 },
+    "statsID": 106,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "NE0", "end": "NE0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 34 },
+    "statsID": 107,
+    "description":
+      "Tom Brady incomplete pass to the right intended for Danny Amendola.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE25", "end": "NE25" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 27 },
+    "statsID": 108,
+    "description":
+      "Tom Brady pass to the left to Phillip Dorsett for 19 yards to the NE44. Tackled by Ronald Darby.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE25", "end": "NE44" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 596417,
+      "firstName": "Phillip",
+      "lastName": "Dorsett",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 19,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 22 },
+    "statsID": 109,
+    "description": "Patriots timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Offense Time Out",
+    "yardLine": { "start": "NE44", "end": "NE44" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 22 },
+    "statsID": 110,
+    "description":
+      "Tom Brady rush to the left for 6 yards to the NE50. Tackled by Brandon Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE44", "end": "NE50" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 6,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 4 },
+    "statsID": 111,
+    "description": "Tom Brady incomplete pass to the middle.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE50", "end": "NE50" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 3 },
+    "statsID": 112,
+    "description": "Eagles timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Defensive Time Out",
+    "yardLine": { "start": "NE50", "end": "NE50" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 2, "gameTimeSec": 3 },
+    "statsID": 113,
+    "description":
+      "Tom Brady pass to the right to Danny Amendola for 23 yards to the Phi27. Tackled by Corey Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE50", "end": "Phi27" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 23,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 12
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 900 },
+    "statsID": 115,
+    "description": "Jake Elliott kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 900 },
+    "statsID": 116,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "NE0", "end": "NE0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 900 },
+    "statsID": 117,
+    "description":
+      "Tom Brady incomplete pass to the right intended for Rob Gronkowski.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE25", "end": "NE25" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 897 },
+    "statsID": 118,
+    "description":
+      "Tom Brady pass to the right to Rob Gronkowski for 25 yards to the NE50. Tackled by Corey Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE25", "end": "NE50" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 25,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 873 },
+    "statsID": 119,
+    "description":
+      "Tom Brady pass to the right to Rob Gronkowski for 24 yards to the Phi26. Tackled by Corey Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE50", "end": "Phi26" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 24,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 850 },
+    "statsID": 120,
+    "description":
+      "James White rush to the left for 4 yards to the Phi22. Tackled by Vinny Curry.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi26", "end": "Phi22" },
+    "player": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 812 },
+    "statsID": 121,
+    "description":
+      "Tom Brady incomplete pass to the right intended for James Develin.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi22", "end": "Phi22" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 340282,
+      "firstName": "James",
+      "lastName": "Develin",
+      "uniform": "46"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 805 },
+    "statsID": 122,
+    "description":
+      "Tom Brady pass to the left to Rob Gronkowski for 14 yards to the Phi8. Tackled by Corey Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi22", "end": "Phi8" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 14,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 775 },
+    "statsID": 123,
+    "description":
+      "James White rush to the middle for 3 yards to the Phi5. Tackled by Jalen Mills and Chris Long.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi8", "end": "Phi5" },
+    "player": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 3,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 12, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 739 },
+    "statsID": 124,
+    "description":
+      "Tom Brady pass to the left to Rob Gronkowski for 5 yards for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi5", "end": "Phi0" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 5,
+    "scores": {
+      "before": { "home": 12, "away": 22 },
+      "after": { "home": 18, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 735 },
+    "statsID": 125,
+    "description": "Stephen Gostkowski extra point is GOOD.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Extra Point",
+    "yardLine": { "start": "Phi15", "end": "Phi15" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 18, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 13
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 735 },
+    "statsID": 126,
+    "description": "Stephen Gostkowski kicks off to the Phi0.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "NE35", "end": "Phi0" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 735 },
+    "statsID": 127,
+    "description":
+      "Kenjon Barner return for 25 yards to Phi25. Tackled by Johnson Bademosi.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff Return",
+    "yardLine": { "start": "Phi0", "end": "Phi25" },
+    "player": {
+      "statsID": 459193,
+      "firstName": "Kenjon",
+      "lastName": "Barner",
+      "uniform": "38"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 25,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 735 },
+    "statsID": 128,
+    "description":
+      "Penalty: Illegal Block on Eagles (Kamu Grugier-Hill) -10 yards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Penalty",
+    "yardLine": { "start": "Phi25", "end": "Phi15" },
+    "player": {
+      "statsID": 691101,
+      "firstName": "Kamu",
+      "lastName": "Grugier-Hill",
+      "uniform": "54"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": -10,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 728 },
+    "statsID": 129,
+    "description":
+      "LeGarrette Blount rush to the left for 4 yards to the Phi19. Tackled by Malcom Brown and Trey Flowers.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi15", "end": "Phi19" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 694 },
+    "statsID": 130,
+    "description":
+      "Nick Foles incomplete pass to the left intended for Nelson Agholor.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi19", "end": "Phi19" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 687 },
+    "statsID": 131,
+    "description":
+      "Nick Foles pass to the left to Nelson Agholor for 17 yards to the Phi36. Tackled by Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi19", "end": "Phi36" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 17,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 653 },
+    "statsID": 132,
+    "description":
+      "LeGarrette Blount rush to the right for 5 yards to the Phi41. Tackled by Lawrence Guy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi36", "end": "Phi41" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 5,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 610 },
+    "statsID": 133,
+    "description":
+      "LeGarrette Blount rush to the left for 10 yards to the NE49. Tackled by Malcom Brown.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi41", "end": "NE49" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 10,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 567 },
+    "statsID": 134,
+    "description":
+      "Nick Foles incomplete pass to the right intended for Torrey Smith.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE49", "end": "NE49" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 563 },
+    "statsID": 135,
+    "description":
+      "Jay Ajayi rush to the right for 9 yards to the NE40. Tackled by Elandon Roberts and Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE49", "end": "NE40" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 9,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 537 },
+    "statsID": 136,
+    "description":
+      "Nick Foles pass to the right to Zach Ertz for 14 yards to the NE26. Tackled by Jordan Richards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE40", "end": "NE26" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 14,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 494 },
+    "statsID": 137,
+    "description":
+      "LeGarrette Blount rush to the left for 4 yards to the NE22. Tackled by Trey Flowers.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE26", "end": "NE22" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 453 },
+    "statsID": 138,
+    "description":
+      "Nick Foles incomplete pass to the right intended for Trey Burton.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE22", "end": "NE22" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 542788,
+      "firstName": "Trey",
+      "lastName": "Burton",
+      "uniform": "88"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 22 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 445 },
+    "statsID": 139,
+    "description":
+      "Nick Foles pass to the left to Corey Clement for 22 yards for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE22", "end": "NE0" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 22,
+    "scores": {
+      "before": { "home": 19, "away": 22 },
+      "after": { "home": 19, "away": 28 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 438 },
+    "statsID": 140,
+    "description": "Jake Elliott extra point is GOOD.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Extra Point",
+    "yardLine": { "start": "NE15", "end": "NE15" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 19, "away": 28 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 14
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 438 },
+    "statsID": 141,
+    "description": "Jake Elliott kicks off to the NE0.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 438 },
+    "statsID": 142,
+    "description":
+      "Dion Lewis return for 25 yards to NE25. Tackled by Najee Goode and Trey Burton.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff Return",
+    "yardLine": { "start": "NE0", "end": "NE25" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 25,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 433 },
+    "statsID": 143,
+    "description":
+      "Dion Lewis rush to the right for 1 yard to the NE26. Tackled by Jalen Mills and Vinny Curry.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE25", "end": "NE26" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 1,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 397 },
+    "statsID": 145,
+    "description": "Penalty: Holding on Eagles (Mychal Kendricks) 5 yards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Penalty",
+    "yardLine": { "start": "NE26", "end": "NE31" },
+    "player": {
+      "statsID": 461633,
+      "firstName": "Mychal",
+      "lastName": "Kendricks",
+      "uniform": "95"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 5,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 392 },
+    "statsID": 146,
+    "description":
+      "Dion Lewis rush to the left for 1 yard to the NE32. Tackled by Vinny Curry and Nigel Bradham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE31", "end": "NE32" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 1,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 351 },
+    "statsID": 147,
+    "description":
+      "Tom Brady pass to the middle to Chris Hogan for 16 yards to the NE48. Tackled by Ronald Darby.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE32", "end": "NE48" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 16,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 320 },
+    "statsID": 148,
+    "description":
+      "Dion Lewis rush to the left for 2 yards to the NE50. Tackled by Malcolm Jenkins.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE48", "end": "NE50" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 285 },
+    "statsID": 149,
+    "description":
+      "Dion Lewis rush to the middle for 6 yards to the Phi44. Tackled by Rodney McLeod and Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE50", "end": "Phi44" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 6,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 247 },
+    "statsID": 150,
+    "description":
+      "Tom Brady pass to the left to Danny Amendola for 18 yards to the Phi26. Tackled by Patrick Robinson.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi44", "end": "Phi26" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 18,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 19, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 209 },
+    "statsID": 151,
+    "description":
+      "Tom Brady pass to the right to Chris Hogan for 26 yards for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi26", "end": "Phi0" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 26,
+    "scores": {
+      "before": { "home": 19, "away": 29 },
+      "after": { "home": 25, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 203 },
+    "statsID": 152,
+    "description": "Stephen Gostkowski extra point is GOOD.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Extra Point",
+    "yardLine": { "start": "Phi15", "end": "Phi15" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 25, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 15
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 203 },
+    "statsID": 153,
+    "description": "Stephen Gostkowski kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "NE35", "end": "Phi0" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 203 },
+    "statsID": 154,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "Phi0", "end": "Phi0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 203 },
+    "statsID": 155,
+    "description":
+      "Nick Foles pass to the right to Nelson Agholor for 24 yards to the Phi49. Tackled by Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi25", "end": "Phi49" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 24,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 162 },
+    "statsID": 156,
+    "description":
+      "Nick Foles pass to the middle to Torrey Smith for 17 yards to the NE34. Tackled by Devin McCourty.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi49", "end": "NE34" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 17,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 124 },
+    "statsID": 157,
+    "description":
+      "LeGarrette Blount rush to the right for 2 yards to the NE32. Tackled by Malcom Brown.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE34", "end": "NE32" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 83 },
+    "statsID": 158,
+    "description":
+      "Nelson Agholor rush to the left for 9 yards to the NE23. Tackled by Eric Rowe and Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE32", "end": "NE23" },
+    "player": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 9,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 39 },
+    "statsID": 159,
+    "description":
+      "Nick Foles incomplete pass to the left intended for Zach Ertz.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE23", "end": "NE23" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 3, "gameTimeSec": 34 },
+    "statsID": 160,
+    "description":
+      "Nick Foles pass to the left to Torrey Smith for 7 yards to the NE16. Tackled by Devin McCourty.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE23", "end": "NE16" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 7,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 900 },
+    "statsID": 162,
+    "description":
+      "Nick Foles pass to the right to Nelson Agholor for a loss of 8 yards to the NE24. Tackled by Marquis Flowers.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE16", "end": "NE24" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": -8,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 29 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 854 },
+    "statsID": 163,
+    "description":
+      "Jake Elliott 42 yard field goal attempt is GOOD. Holder: Donnie Jones.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Field Goal",
+    "yardLine": { "start": "NE24", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 42,
+    "scores": {
+      "before": { "home": 26, "away": 29 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 16
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 849 },
+    "statsID": 165,
+    "description": "Jake Elliott kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 849 },
+    "statsID": 166,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "NE0", "end": "NE0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 849 },
+    "statsID": 167,
+    "description":
+      "Rex Burkhead rush to the right for 5 yards to the NE30. Tackled by Patrick Robinson.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE25", "end": "NE30" },
+    "player": {
+      "statsID": 498760,
+      "firstName": "Rex",
+      "lastName": "Burkhead",
+      "uniform": "34"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 5,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 823 },
+    "statsID": 168,
+    "description":
+      "Rex Burkhead rush to the left for 9 yards to the NE39. Tackled by Vinny Curry.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE30", "end": "NE39" },
+    "player": {
+      "statsID": 498760,
+      "firstName": "Rex",
+      "lastName": "Burkhead",
+      "uniform": "34"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 9,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 791 },
+    "statsID": 169,
+    "description":
+      "Rex Burkhead rush to the left for 4 yards to the NE43. Tackled by Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE39", "end": "NE43" },
+    "player": {
+      "statsID": 498760,
+      "firstName": "Rex",
+      "lastName": "Burkhead",
+      "uniform": "34"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 749 },
+    "statsID": 170,
+    "description":
+      "Tom Brady pass to the left to Chris Hogan for 3 yards to the NE46. Tackled by Ronald Darby.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE43", "end": "NE46" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 3,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 709 },
+    "statsID": 171,
+    "description":
+      "Tom Brady pass to the right to Danny Amendola for 7 yards to the Phi47. Tackled by Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE46", "end": "Phi47" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 7,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 684 },
+    "statsID": 172,
+    "description":
+      "Tom Brady pass to the left to Danny Amendola for 30 yards to the Phi17. Tackled by Rodney McLeod.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi47", "end": "Phi17" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 30,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 657 },
+    "statsID": 173,
+    "description":
+      "Tom Brady pass to the left to Danny Amendola for 9 yards to the Phi8. Tackled by Beau Allen.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi17", "end": "Phi8" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 9,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 613 },
+    "statsID": 174,
+    "description":
+      "James White rush to the middle for 4 yards to the Phi4. Tackled by Mychal Kendricks.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi8", "end": "Phi4" },
+    "player": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 571 },
+    "statsID": 175,
+    "description":
+      "Tom Brady incomplete pass to the left intended for James White.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi4", "end": "Phi4" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 26, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 566 },
+    "statsID": 176,
+    "description":
+      "Tom Brady pass to the left to Rob Gronkowski for 4 yards for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi4", "end": "Phi0" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 26, "away": 32 },
+      "after": { "home": 32, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 562 },
+    "statsID": 177,
+    "description": "Stephen Gostkowski extra point is GOOD.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Extra Point",
+    "yardLine": { "start": "Phi15", "end": "Phi15" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 32, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 17
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 562 },
+    "statsID": 178,
+    "description": "Stephen Gostkowski kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "NE35", "end": "Phi0" },
+    "player": {
+      "statsID": 177862,
+      "firstName": "Stephen",
+      "lastName": "Gostkowski",
+      "uniform": "3"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 562 },
+    "statsID": 179,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "Phi0", "end": "Phi0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 562 },
+    "statsID": 180,
+    "description":
+      "Jay Ajayi rush to the right for 4 yards to the Phi29. Tackled by Devin McCourty.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi25", "end": "Phi29" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 4,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 523 },
+    "statsID": 181,
+    "description":
+      "Nick Foles incomplete pass to the left intended for Torrey Smith.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "Phi29", "end": "Phi29" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 515 },
+    "statsID": 182,
+    "description": "Patriots timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Defensive Time Out",
+    "yardLine": { "start": "Phi29", "end": "Phi29" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 515 },
+    "statsID": 183,
+    "description":
+      "Nick Foles pass to the left to Zach Ertz for 7 yards to the Phi36. Tackled by Stephon Gilmore.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi29", "end": "Phi36" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 7,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 476 },
+    "statsID": 184,
+    "description":
+      "LeGarrette Blount rush to the left for 2 yards to the Phi38. Tackled by Lawrence Guy and Trey Flowers.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi36", "end": "Phi38" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 431 },
+    "statsID": 185,
+    "description":
+      "Nick Foles pass to the right to Corey Clement for 7 yards to the Phi45. Tackled by Patrick Chung and Kyle Van Noy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi38", "end": "Phi45" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 7,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 386 },
+    "statsID": 186,
+    "description":
+      "Nick Foles pass to the left to Torrey Smith for no gain to the Phi45. Tackled by Devin McCourty.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi45", "end": "Phi45" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 399548,
+      "firstName": "Torrey",
+      "lastName": "Smith",
+      "uniform": "82"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 339 },
+    "statsID": 187,
+    "description":
+      "Nick Foles pass to the left to Zach Ertz for 2 yards to the Phi47. Tackled by Duron Harmon.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi45", "end": "Phi47" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 292 },
+    "statsID": 188,
+    "description": "Eagles timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Offense Time Out",
+    "yardLine": { "start": "Phi47", "end": "Phi47" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 292 },
+    "statsID": 189,
+    "description":
+      "LeGarrette Blount rush to the left for 1 yard to the Phi48. Tackled by Malcom Brown and Trey Flowers.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "Phi47", "end": "Phi48" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 1,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 251 },
+    "statsID": 190,
+    "description":
+      "Nick Foles pass to the right to Nelson Agholor for 10 yards to the NE42. Tackled by Patrick Chung.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "Phi48", "end": "NE42" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 10,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 205 },
+    "statsID": 191,
+    "description":
+      "Nick Foles pass to the middle to Nelson Agholor for 18 yards to the NE24. Tackled by Devin McCourty.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE42", "end": "NE24" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 18,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 163 },
+    "statsID": 192,
+    "description":
+      "Nick Foles pass to the left to Nelson Agholor for 10 yards to the NE14. Tackled by Duron Harmon.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE24", "end": "NE14" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 691055,
+      "firstName": "Nelson",
+      "lastName": "Agholor",
+      "uniform": "13"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 10,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 157 },
+    "statsID": 193,
+    "description":
+      "Jay Ajayi rush to the middle for 3 yards to the NE11. Tackled by Malcom Brown and Lawrence Guy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE14", "end": "NE11" },
+    "player": {
+      "statsID": 590921,
+      "firstName": "Jay",
+      "lastName": "Ajayi",
+      "uniform": "36"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 3,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 150 },
+    "statsID": 194,
+    "description": "Patriots timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Defensive Time Out",
+    "yardLine": { "start": "NE11", "end": "NE11" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 150 },
+    "statsID": 195,
+    "description":
+      "Nick Foles incomplete pass to the right intended for Alshon Jeffery.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE11", "end": "NE11" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 504323,
+      "firstName": "Alshon",
+      "lastName": "Jeffery",
+      "uniform": "17"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 32 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 145 },
+    "statsID": 196,
+    "description":
+      "Nick Foles pass to the left to Zach Ertz for 11 yards for a TOUCHDOWN.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE11", "end": "NE0" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 503177,
+      "firstName": "Zach",
+      "lastName": "Ertz",
+      "uniform": "86"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 11,
+    "scores": {
+      "before": { "home": 33, "away": 32 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 141 },
+    "statsID": 197,
+    "description":
+      "Nick Foles 2 pt conversion pass is NO GOOD - intended forCorey Clement.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Missed Two Point Conversion",
+    "yardLine": { "start": "NE2", "end": "NE2" },
+    "player": {
+      "statsID": 403189,
+      "firstName": "Nick",
+      "lastName": "Foles",
+      "uniform": "9"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 742470,
+      "firstName": "Corey",
+      "lastName": "Clement",
+      "uniform": "30"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 18
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 141 },
+    "statsID": 198,
+    "description": "Jake Elliott kicks off to the endzone.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 65,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 19
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 141 },
+    "statsID": 199,
+    "description": "Touchback.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Touchback",
+    "yardLine": { "start": "NE0", "end": "NE0" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 19
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 141 },
+    "statsID": 200,
+    "description":
+      "Tom Brady pass to the right to Rob Gronkowski for 8 yards to the NE33. Tackled by Nigel Bradham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE25", "end": "NE33" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 8,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 19
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 136 },
+    "statsID": 201,
+    "description":
+      "Tom Brady sacked at NE28 for a loss of 5 yards by Brandon Graham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Sack",
+    "yardLine": { "start": "NE33", "end": "NE28" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": -5,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 19
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 136 },
+    "statsID": 202,
+    "description": "Tom Brady FUMBLES(FF-Brandon Graham).",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Fumble",
+    "yardLine": { "start": "NE28", "end": "NE28" },
+    "player": {
+      "statsID": 336730,
+      "firstName": "Brandon",
+      "lastName": "Graham",
+      "uniform": "55"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 19
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 136 },
+    "statsID": 203,
+    "description":
+      "Recovered by Phi (Derek Barnett) and returned for a loss of 3 yards. Tackled by David Andrews.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Defensive Fumble Recovery",
+    "yardLine": { "start": "NE28", "end": "NE31" },
+    "player": {
+      "statsID": 829983,
+      "firstName": "Derek",
+      "lastName": "Barnett",
+      "uniform": "96"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": -3,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 19
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 129 },
+    "statsID": 204,
+    "description":
+      "LeGarrette Blount rush to the left for 2 yards to the NE29. Tackled by Lawrence Guy and Jordan Richards.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE31", "end": "NE29" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 2,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 20
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 123 },
+    "statsID": 205,
+    "description": "Patriots timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Defensive Time Out",
+    "yardLine": { "start": "NE29", "end": "NE29" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 20
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 123 },
+    "statsID": 206,
+    "description":
+      "LeGarrette Blount rush to the right for 3 yards to the NE26. Tackled by Lawrence Guy.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE29", "end": "NE26" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 3,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 20
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 116 },
+    "statsID": 207,
+    "description": "Two Minute Warning.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Two Minute Warning",
+    "yardLine": { "start": "NE26", "end": "NE26" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 20
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 116 },
+    "statsID": 208,
+    "description":
+      "LeGarrette Blount rush to the right for a loss of 1 yard to the NE27. Tackled by Adam Butler and Malcom Brown.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Rush",
+    "yardLine": { "start": "NE26", "end": "NE27" },
+    "player": {
+      "statsID": 450778,
+      "firstName": "LeGarrette",
+      "lastName": "Blount",
+      "uniform": "29"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": -1,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 20
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 70 },
+    "statsID": 209,
+    "description": "Eagles timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Offense Time Out",
+    "yardLine": { "start": "NE27", "end": "NE27" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 38 }
+    },
+    "driveID": 20
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 70 },
+    "statsID": 210,
+    "description":
+      "Jake Elliott 46 yard field goal attempt is GOOD. Holder: Donnie Jones.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Made Field Goal",
+    "yardLine": { "start": "NE27", "end": "NE0" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 46,
+    "scores": {
+      "before": { "home": 33, "away": 38 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 20
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 65 },
+    "statsID": 211,
+    "description": "Jake Elliott kicks off to the NE7.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff",
+    "yardLine": { "start": "Phi35", "end": "NE7" },
+    "player": {
+      "statsID": 746154,
+      "firstName": "Jake",
+      "lastName": "Elliott",
+      "uniform": "4"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 58,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 65 },
+    "statsID": 212,
+    "description": "Dion Lewis return for 3 yards to NE10.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Kickoff Return",
+    "yardLine": { "start": "NE7", "end": "NE10" },
+    "player": {
+      "statsID": 494724,
+      "firstName": "Dion",
+      "lastName": "Lewis",
+      "uniform": "33"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 3,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 65 },
+    "statsID": 213,
+    "description":
+      "Lateral to Rex Burkhead for a loss of 1 yard to the NE9. Tackled by Bryan Braman.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Lateral",
+    "yardLine": { "start": "NE10", "end": "NE9" },
+    "player": {
+      "statsID": 498760,
+      "firstName": "Rex",
+      "lastName": "Burkhead",
+      "uniform": "34"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": -1,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 58 },
+    "statsID": 214,
+    "description":
+      "Tom Brady incomplete pass to the right intended for Chris Hogan.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE9", "end": "NE9" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 564913,
+      "firstName": "Chris",
+      "lastName": "Hogan",
+      "uniform": "15"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 53 },
+    "statsID": 215,
+    "description":
+      "Tom Brady incomplete pass to the left intended for James White.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE9", "end": "NE9" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 556294,
+      "firstName": "James",
+      "lastName": "White",
+      "uniform": "28"
+    },
+    "isDefended": false,
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 48 },
+    "statsID": 216,
+    "description":
+      "Tom Brady incomplete pass to the right intended for Danny Amendola.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE9", "end": "NE9" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 42 },
+    "statsID": 217,
+    "description":
+      "Tom Brady pass to the middle to Danny Amendola for 13 yards to the NE22. Tackled by Nigel Bradham.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE9", "end": "NE22" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 263758,
+      "firstName": "Danny",
+      "lastName": "Amendola",
+      "uniform": "80"
+    },
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 13,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 27 },
+    "statsID": 218,
+    "description": "Tom Brady incomplete pass to the middle.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE22", "end": "NE22" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "isDefended": false,
+    "direction": "M",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 26 },
+    "statsID": 219,
+    "description":
+      "Tom Brady pass to the right to Rob Gronkowski for 11 yards to the NE33. Tackled by Patrick Robinson.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE22", "end": "NE33" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 11,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 20 },
+    "statsID": 220,
+    "description":
+      "Tom Brady pass to the right to Rob Gronkowski for 16 yards to the NE49. Tackled by Jalen Mills.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Pass",
+    "yardLine": { "start": "NE33", "end": "NE49" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 16,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 13 },
+    "statsID": 221,
+    "description": "Eagles timeout.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Defensive Time Out",
+    "yardLine": { "start": "NE49", "end": "NE49" },
+    "isTackle": false,
+    "isDefended": false,
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 13 },
+    "statsID": 222,
+    "description":
+      "Tom Brady incomplete pass to the left intended for Phillip Dorsett defensed by Ronald Darby.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE49", "end": "NE49" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 596417,
+      "firstName": "Phillip",
+      "lastName": "Dorsett",
+      "uniform": "13"
+    },
+    "isDefended": true,
+    "passDefender": {
+      "statsID": 691515,
+      "firstName": "Ronald",
+      "lastName": "Darby",
+      "uniform": "41"
+    },
+    "direction": "L",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  },
+  {
+    "gameTime": { "gamePeriod": 4, "gameTimeSec": 9 },
+    "statsID": 223,
+    "description":
+      "Tom Brady incomplete pass to the right intended for Rob Gronkowski.",
+    "possession": { "startTeamID": 0, "endTeamID": 0 },
+    "type": "Incomplete Pass",
+    "yardLine": { "start": "NE49", "end": "NE49" },
+    "player": {
+      "statsID": 25347,
+      "firstName": "Tom",
+      "lastName": "Brady",
+      "uniform": "12"
+    },
+    "isTackle": false,
+    "target": {
+      "statsID": 381091,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "uniform": "87"
+    },
+    "isDefended": false,
+    "direction": "R",
+    "numYards": 0,
+    "scores": {
+      "before": { "home": 33, "away": 41 },
+      "after": { "home": 33, "away": 41 }
+    },
+    "driveID": 21
+  }
+]

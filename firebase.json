@@ -1,0 +1,32 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "functions": {},
+  "hosting": {
+    "public": "build",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "/admin-api/**",
+        "function": "handleAdminAPIRequest"
+      },
+      {
+        "source": "/pbp-events/**",
+        "function": "handleIncomingPBPEvents"
+      },
+      {
+        "source": "/processor/**",
+        "function": "handleProcessorAPIRequest"
+      },
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}

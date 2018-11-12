@@ -1,0 +1,31 @@
+[
+  {
+    "type": "opening_kickoff",
+    "start": "pre",
+    "willBeReturned": true
+  },
+  {
+    "type": "will_gain_n_yards",
+    "start": "pre",
+    "firstName": "Jay",
+    "lastName": "Ajayi",
+    "numYards": 5,
+    "numCarries": 1
+  },
+  {
+    "type": "will_gain_n_yards",
+    "start": "pre",
+    "firstName": "Jay",
+    "lastName": "Ajayi",
+    "numYards": 10,
+    "numCarries": 1
+  },
+  {
+    "type": "will_gain_n_yards",
+    "start": "pre",
+    "firstName": "Jay",
+    "lastName": "Ajayi",
+    "numYards": 20,
+    "numCarries": 5
+  }
+]

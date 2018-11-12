@@ -1,0 +1,17 @@
+service firebase.storage {
+  match /b/{bucket}/o {
+  
+  	//
+  	// PROFILE PICTURE
+  	// 
+    match /users/{uid}/images/profile.jpg {
+      // all logged-in users can view the profile picutre
+    	allow read: if request.auth != null 
+      // but only the owner can publish his/her picture
+    	allow write: if request.auth.uid == uid
+      	// force JPEG <5M
+        && request.resource.contentType.matches("image/jpeg")
+        && request.resource.size < 5 * 1024 * 1024 // max 5M
+    }
+  }
+}

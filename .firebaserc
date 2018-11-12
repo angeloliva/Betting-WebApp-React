@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "yamble": "engamed-app",
+    "yamble-staging": "yamble-staging"
+  }
+}
